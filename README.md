@@ -4,7 +4,9 @@
 
 # Octo
 
-octo is an octopus which helps you to store your inventory
+`octo` is a self hostetd service which helps you to store your inventory.
+
+It provides RESTAPI, a Web Interface and a CLI interface to interact with it.
 
 ## Where it all began
 
