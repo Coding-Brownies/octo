@@ -10,4 +10,4 @@ octo is an octopus which helps you to store your inventory
 
 <br>
 
-<img style="margin-left:2%;witdth:98%" src="./assets/migno.png" alt="doc">
+<img src="./assets/migno.png" alt="doc">
